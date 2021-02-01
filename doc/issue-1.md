@@ -18,7 +18,7 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 - ### Argos
 
-![argos](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/ARGOS.png)
+![argos](/ArchGeo/asset/2021-1/ARGOS.png)
 
 封面建筑是Zaha Hadid 设计的, 于 2020 年在奥地利格拉茨建成的 ARGOS酒店式公寓. 凸出部分具有非负高斯曲率.
 
