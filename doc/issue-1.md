@@ -23,7 +23,7 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 - ### 新建成的鹿特丹的博物馆和纽约的车站:
 
-![archi](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/ag.png)
+![archi](/asset/2021-1/ag.png)
 
 均具有正高斯曲率, 由 quad mesh 构成.
 
@@ -33,27 +33,27 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 - ### [CTBUH 2020 最高建筑回顾](https://www.skyscrapercenter.com/year-in-review/2020)
 
-![2020 超高建筑](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/supertall.png)
+![2020 超高建筑](/asset/2021-1/supertall.png)
 
-![2020 超高建筑](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/tallest2020.png)
+![2020 超高建筑](/asset/2021-1/tallest2020.png)
 
 
 
 - ### [2020年第十一届中国十大丑陋建筑](https://vct.news/news/7e1e562f-1269-40a2-a85a-912a190956da)
 
-![2020最丑建筑](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/ugly.png)
+![2020最丑建筑](/asset/2021-1/ugly.png)
 
 第一个广州融创大剧院,由英国 SCF(Steven Chilton Architects) 建筑事务所设计, 以其让人不舒服的渲染引起争议.
 
-![融创剧院](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/%E5%B9%BF%E5%B7%9E%E8%9E%8D%E5%88%9B%E5%89%A7%E9%99%A2.png)
+![融创剧院](/asset/2021-1/%E5%B9%BF%E5%B7%9E%E8%9E%8D%E5%88%9B%E5%89%A7%E9%99%A2.png)
 
-主要作品还包括武汉汉秀剧院,无锡太湖剧院,广州益智球剧院, 后两个渲染效果图也重复出现了类似’对中国刻板印象’的元素,不舒服. https://mp.weixin.qq.com/s/hmyCtsK_TW45J6802EQyxQ
+主要作品还包括武汉汉秀剧院,无锡太湖剧院,广州益智球剧院, 后两个渲染效果图也重复出现了类似’对中国刻板印象’的元素. https://mp.weixin.qq.com/s/hmyCtsK_TW45J6802EQyxQ
 
 
 
 - ### [世界上 11+最有趣高架渠(Aqueduct=Water Bridge)](https://interestingengineering.com/10-most-amazing-water-bridges-from-all-around-the-world)
 
-![高架渠](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/aqueduct.png)
+![高架渠](/asset/2021-1/aqueduct.png)
 
 水桥的特点是无论是否有船通过,以及无论船只大小,桥面感受到的压力几乎不变.
 
@@ -75,13 +75,13 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
   免费在线几何入门圣书, 共 6 篇,  Byrne 用非常直白的办法实现了书中晦涩的证明, 用交互式的几何图形取代了代数的含义.
 
-![euclid](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/euclid.png)
+![euclid](/asset/2021-1/euclid.png)
 
 1. 图上没有任何字母
 2. 问题/定理中的说明用线面角的方式和图一一对应
 3. 不仅给出公理介绍,名词解释, 还给出定理, 推论等说明+证明, 和作图思路.
 
-![euclid2](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/euclid2.png)
+![euclid2](/asset/2021-1/euclid2.png)
 
 
 
@@ -89,7 +89,7 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 最有名的版画师, 他的作品里不仅涉及简单的几何变换,也许他自己都没有意识到,这里还有射影几何, 共形几何,分形几何等理论. <集异壁>书中的’异’, 游戏<纪念碑谷>的灵感来源.
 
-![Escher](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/mcescher.png)
+![Escher](/asset/2021-1/mcescher.png)
 
 相信下面 Termesphere 也是对他的作品的致敬.
 
@@ -97,32 +97,32 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 - ### [Termesphere](https://termespheres.com/)
 
-![temesphsere](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/termesphere.png)
+![temesphsere](/asset/2021-1/termesphere.png)
 
 由美国艺术家 Dick Termes 创造的 6点视角球面图形, 已经商业化, 包括纪念品, 博物馆, VR(3D 万花筒) 等.
 
-![预览观光](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/termesphere%20gallery.png)
+![预览观光](/asset/2021-1/termesphere%20gallery.png)
 
-![6-point](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/six-point-perspective.png)
+![6-point](/asset/2021-1/six-point-perspective.png)
 
 从左到右依次是 1,2,3,4,5,6 点视角. 所谓 6-point perspective 就是在 5 -point 视角基础上增加360°旋转效果, 所以形成如上 3D 球面图形.
 
 - ### 编织双曲面
   - [Daina Taimina](http://pi.math.cornell.edu/~dtaimina/) 是 Conell Univsrsity数学院的教师, [Gabriele E. Meyer](http://www.math.wisc.edu/~meyer/) 是University of Wisconsin 数学院的教师, 她们分别针织了许多 hyperbolic 曲面, 用来作为灯罩或者其他装饰品.
 
-![hyperbolic](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/hyperbolic.png)
+![hyperbolic](/asset/2021-1/hyperbolic.png)
 
 <**Crocheting Adventures with Hyberbolic Planes**>这本书介绍了几何背景, 如何编织, 以及应用和影响.
 
-![crochting adventures](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/hyperbolic_dt.png)
+![crochting adventures](/asset/2021-1/hyperbolic_dt.png)
 
 其中最大的应用是由两位澳大利亚双胞胎女孩发起的呼吁全球保护珊瑚礁的展览[*Crochet Coral Reef*](https://crochetcoralreef.org/exhibitions/), 有不少人参与编织制作, 从 2007 年开始,展览每年在不同城市举办:
 
-![crochet coral reef](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/crochetcoralreef.png)
+![crochet coral reef](/asset/2021-1/crochetcoralreef.png)
 
 - ### [French curve](https://en.wikipedia.org/wiki/French_curve)
 
-![french curve](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/french%20curve.png)
+![french curve](/asset/2021-1/french%20curve.png)
 
 法国曲线尺, 由德国几何学家Ludwig Burmester发明. 当做一种模具, 刻画目标对象上的曲线.
 
@@ -130,17 +130,17 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 - ### [2020 年数学艺术展](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition)
 
-![2020mae](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/2020-MAE.png)
+![2020mae](/asset/2021-1/2020-MAE.png)
 
 - ### [2019 Mathematical Art Exhibition](http://www.ams.org/publicoutreach/math-imagery/2019-Exhibition)
 
-![Isometric transformation between Catenoid and Helicoid](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/2019-MAE.png)
+![Isometric transformation between Catenoid and Helicoid](/asset/2021-1/2019-MAE.png)
 
 https://hyrodium.tumblr.com/post/181954803907/heres-a-video-of-a-isometric-transformation
 
 - ### [2018 Mathematical Art Exhibition](http://www.ams.org/publicoutreach/math-imagery/2018-Exhibition)
 
-![2018mae](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/2018-MAE.png)
+![2018mae](/asset/2021-1/2018-MAE.png)
 
 
 
@@ -154,43 +154,43 @@ https://hyrodium.tumblr.com/post/181954803907/heres-a-video-of-a-isometric-trans
 
 开源文献管理软件, 可和手机端’Zoo  for Zotero’ 同步.
 
-![zotero](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/zotero.png)
+![zotero](/asset/2021-1/zotero.png)
 
 - ### [Geogebra](https://www.geogebra.org/?lang=en)
 
 开源几何图形软件, 可在线, 可电脑手机下载. 于 2001 年萨尔兹堡大学创建, 其流畅性能和共享资源,已经完全取代‘几何画板’, 是动态几何代数展示的非常好的软件. 不仅适用于中小学教学, 也很适合学生自己探索.
 
-![geogebra](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/geogebra.png)
+![geogebra](/asset/2021-1/geogebra.png)
 
 - ### [Blender](https://www.blender.org/)
 
 开源三维图形处理软件, 方便处理网格, 制作动画, 图形渲染.
 
-![blender](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/blender.png)
+![blender](/asset/2021-1/blender.png)
 
 - ### [Iconion](https://iconion.com/)
 
 免费 icon 生成软件, 可以换色,换背景.
 
-![iconion](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/iconion.png)
+![iconion](/asset/2021-1/iconion.png)
 
 - ### [Typora](https://typora.io/)
 
 轻量免费 Markdown 语言编辑器, 快速插入图片, 链接等. 本文就是在此基础上编写.
 
-![typora](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/typora.png)
+![typora](/asset/2021-1/typora.png)
 
 - ### Atom
 
 Github 开发的开源文字和代码编辑器, 有 git 控制系统, 能快速编辑,同步网页. 其 markdown 可视化不如 Typora.
 
-![atom](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/atom.png)
+![atom](/asset/2021-1/atom.png)
 
 - ### [TexMaker](https://www.xm1math.net/texmaker/)
 
 开源 Latex 编辑器, 快速插入数学符号, 公式, 图片等.
 
-![texmaker](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/texmaker.png)
+![texmaker](/asset/2021-1/texmaker.png)
 
 
 
@@ -198,13 +198,13 @@ Github 开发的开源文字和代码编辑器, 有 git 控制系统, 能快速�
 
 开源图片编辑器, 相比 PS最大特点是免费. 快速处理图片, 如清除背景, 合并图片等. 
 
-![gimp](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/gimp.png)
+![gimp](/asset/2021-1/gimp.png)
 
 - ### [remove.bg](https://www.remove.bg/zh)
 
 轻量免费软件, 可快速换背景. 但清除背景功能不如 GIMP.
 
-![removebg](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/removebg.png)
+![removebg](/asset/2021-1/removebg.png)
 
 
 
@@ -212,7 +212,7 @@ Github 开发的开源文字和代码编辑器, 有 git 控制系统, 能快速�
 
 轻量开源视频播放器.
 
-![iina](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/iina.png)
+![iina](/asset/2021-1/iina.png)
 
 
 
@@ -220,13 +220,13 @@ Github 开发的开源文字和代码编辑器, 有 git 控制系统, 能快速�
 
 免费,快速,简单创造个人 CV 的Github 链接.
 
-![resume](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/best-resume-ever.png)
+![resume](/asset/2021-1/best-resume-ever.png)
 
 - ### [ArtLine](https://github.com/vijishmadhavan/ArtLine)
 
 免费将人物图片转素描画的Github 链接..
 
-![artline](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/artline.png)
+![artline](/asset/2021-1/artline.png)
 
 - ### [YPlayer](https://github.com/ruanyf/weekly/issues/1593)
 
@@ -364,4 +364,4 @@ Mac 上本地实时生成字幕的视频播放器, 只支持 mac OS Big Sur(>=11
 
 
 
-![2021](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/2021.png)
+![2021](/asset/2021-1/2021.png)
