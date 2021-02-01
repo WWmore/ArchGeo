@@ -6,7 +6,6 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 > 这里记录每月以建筑几何AG(Architectural Geometry)为主的相关信息, 和值得分享的内容.
 > 每月月底更新.
 
-[TOC]
 
 > 感觉到数学的美，感觉到数与形的协调，感觉到几何的优雅，这是所有真正的数学家都清楚的真实的美的感觉. ——Jules Henri Poincare
 
@@ -18,7 +17,7 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 - ### Argos
 
-![argos](/ArchGeo/asset/2021-1/ARGOS.png)
+![argos](/asset/2021-1/ARGOS.png)
 
 封面建筑是Zaha Hadid 设计的, 于 2020 年在奥地利格拉茨建成的 ARGOS酒店式公寓. 凸出部分具有非负高斯曲率.
 
