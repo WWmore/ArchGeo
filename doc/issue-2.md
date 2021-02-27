@@ -21,19 +21,19 @@ ArchGeo建筑几何(第 2 期)
 
 ![第八大陆](/asset/2021-2/第八大陆.png)
 
-- ### Yas Hotel
+- ### [Yas Hotel](https://www.yasisland.ae/en/hotels)
 
 外形酷似剃须刀的 Yas 酒店由Asymptote Architecture事务所设计, 是世界上唯一一个拥有一半建在水上、一半建在陆地上的方程式赛车道酒店。两座酒店主体楼中间由通过F1赛道的桥梁连接. 网壳结构将照明系统与动像结合，由5096个离散连接的平面菱形构成, 幕墙是非防水的双弯曲曲面形状.
 
 ![yas](/asset/2021-2/yas.png)
 
-- ### Capital gate 首都门
+- ### [Capital gate 首都门](https://www.skyscrapercenter.com/building/capital-gate-tower/3172)
 
 位于阿联酋首都阿布扎比, 由奥地利建筑事务所Waagner Biro设计, 2011 年建成.  因倾斜角度是18°, 比比萨斜塔还多14°,成为吉尼斯世界纪录大全最斜的人造塔楼. 外表面也是由 PQ 构成自由曲面结构. 主体部分网格是关于主法曲率网网对称的网格(S-net). 延伸部分网格是主法曲率网.
 
 ![gate](/asset/2021-2/gate.png)
 
-- ### Aldar Headquarters 阿尔达总部大楼
+- ### [Aldar Headquarters 阿尔达总部大楼](https://www.archdaily.com/240524/al-dar-headquarters-mz-architects)
 
 位于阿联酋首都阿布扎比, 2010 年建成, 是中东首个圆形建筑, 曾在 2008 年度建筑交流大会上荣获“最佳未来设计”大奖. 表面网格也是关于主法曲率网对称的网格(S-net).
 
@@ -51,7 +51,7 @@ UNStudio和 Bauwerk 在慕尼黑设计了以智能城市为理念的 Van B住宅
 
 ![van B](/asset/2021-2/van%20B.png)
 
-- ### Ferrari World 法拉利世界主题游乐场
+- ### [Ferrari World 法拉利世界主题游乐场](https://www.ferrariworldabudhabi.com/en?gclid=CjwKCAiA1eKBBhBZEiwAX3gql3GuKD_3nPKOTRBQrpIFU_wge03wuGvGoR5dV23TvLbf7F0MdSlpIhoCr-cQAvD_BwE&gclsrc=aw.ds)
 
 [阿布扎比](https://zh.wikipedia.org/wiki/阿布達比)[亚斯岛](https://zh.wikipedia.org/w/index.php?title=亞斯島&action=edit&redlink=1)上的[主题乐园](https://zh.wikipedia.org/wiki/主題樂園)。2010 年建成, 世界上最大的室内游乐园.
 
@@ -93,7 +93,7 @@ UNStudio和 Bauwerk 在慕尼黑设计了以智能城市为理念的 Van B住宅
 
 
 
-- ### Walter Wunderlich
+- ### [Walter Wunderlich](https://www.geometrie.tuwien.ac.at/former/wunderlich.html)
 
 **Distinguished Figures in Mechanism and Machine Science I, 2007**
 
@@ -129,7 +129,7 @@ UNStudio和 Bauwerk 在慕尼黑设计了以智能城市为理念的 Van B住宅
 
   ![grasshopper](/asset/2021-2/grasshopper.png)
 
-- ### Keyshot
+- ### [Keyshot](https://www.keyshot.com/)
 
   以高动态范围贴图(HDRI)来模拟光源的渲染软件. 更新到 Keyshot10 版.
 
