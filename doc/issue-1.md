@@ -18,7 +18,7 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 
 - ### Argos
 
-![argos](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/ARGOS.png)
+<img src="/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/ARGOS.png" alt="argos" style="zoom:50%;" />
 
 封面建筑是Zaha Hadid 设计的, 于 2020 年在奥地利格拉茨建成的 ARGOS酒店式公寓. 凸出部分具有非负高斯曲率.
 
@@ -111,19 +111,19 @@ ArchGeo建筑几何(第 1 期):首期个人分享
 - ### 编织双曲面
   - [Daina Taimina](http://pi.math.cornell.edu/~dtaimina/) 是 Conell Univsrsity数学院的教师, [Gabriele E. Meyer](http://www.math.wisc.edu/~meyer/) 是University of Wisconsin 数学院的教师, 她们分别针织了许多 hyperbolic 曲面, 用来作为灯罩或者其他装饰品.
 
-![hyperbolic](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/hyperbolic.png)
+<img src="/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/hyperbolic.png" alt="hyperbolic" style="zoom:50%;" />
 
 <**Crocheting Adventures with Hyberbolic Planes**>这本书介绍了几何背景, 如何编织, 以及应用和影响.
 
-![crochting adventures](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/hyperbolic_dt.png)
+<img src="/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/hyperbolic_dt.png" alt="crochting adventures" style="zoom:50%;" />
 
 其中最大的应用是由两位澳大利亚双胞胎女孩发起的呼吁全球保护珊瑚礁的展览[*Crochet Coral Reef*](https://crochetcoralreef.org/exhibitions/), 有不少人参与编织制作, 从 2007 年开始,展览每年在不同城市举办:
 
-![crochet coral reef](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/crochetcoralreef.png)
+<img src="/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/crochetcoralreef.png" alt="crochet coral reef" style="zoom:50%;" />
 
 - ### [French curve](https://en.wikipedia.org/wiki/French_curve)
 
-![french curve](/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/french%20curve.png)
+<img src="/Users/wanghui/Documents/GitHub/ArchGeo/asset/2021-1/french%20curve.png" alt="french curve" style="zoom:50%;" />
 
 法国曲线尺, 由德国几何学家Ludwig Burmester发明. 当做一种模具, 刻画目标对象上的曲线.
 
