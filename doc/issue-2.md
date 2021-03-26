@@ -208,7 +208,7 @@ UNStudio和 Bauwerk 在慕尼黑设计了以智能城市为理念的 Van B住宅
 
    计算机图形学入门介绍.
 
-7. ### [Code Beautify](https://codebeautify.org/)
+7. ### [Code Beautifya](https://codebeautify.org/)
 
    美化各种代码.
 
