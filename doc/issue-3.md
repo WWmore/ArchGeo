@@ -7,7 +7,7 @@ ArchGeo建筑几何(第 3 期)
 > 这里记录每月以建筑几何AG(Architectural Geometry)为主的相关信息, 和值得分享的内容.
 > 每月月底更新.
 
-<!--Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.-->
+##### Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 
 ------
 
@@ -18,8 +18,7 @@ ArchGeo建筑几何(第 3 期)
 - #### [KAUST breakwater beacon 灯塔](https://www.uapcompany.com/projects/al-fanar-beacon)
 
   KAUST 校园标志性建筑, 高60米, 被红海半包围, 由著名艺术设计公司UAP 的 Daniel Tobin 设计,灵感来源红海海洋生态. 表面是不规则六边形Voronoi 图案.
-
-  ![beacon](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/beacon.png)
+  (/asset/2021-3/beacon.png)
 
   
 
@@ -27,7 +26,7 @@ ArchGeo建筑几何(第 3 期)
 
   由扎哈事务所设计, 2017年完工的建筑部落, 也是有六角形状. 该六角棱柱蜂窝结构能有效利用利亚德的光能.
 
-  ![kapsarc](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/kapsarc.png)
+  (/asset/2021-3/kapsarc.png)
 
   
 
@@ -35,7 +34,7 @@ ArchGeo建筑几何(第 3 期)
 
   依旧延续了扎哈事务所参数化异形的建模风格, 该地铁站的样子又超过了人们的想象. 从2012年开建预计今年完工, 并预计2030年每天满载的情况下运送360万名乘客, 减少汽车出行次数.
 
-  ![metro](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/metro.png)
+  (/asset/2021-3/metro.png)
 
   
 
@@ -43,9 +42,9 @@ ArchGeo建筑几何(第 3 期)
 
   由SOM 设计, 2017万完工. 也是位于利亚德阿卜杜拉国王金融区. 外立面的构造过程从点云, 生成三角网格, 再表面细分更多小三角网格, 结构考虑阳光照射问题.
 
-  ![kafd1](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/kafd1.png)
+  (/asset/2021-3/kafd1.png)
 
-  ![kafd2](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/kafd2.png)
+  (/asset/2021-3/kafd2.png)
 
   
 
@@ -55,7 +54,7 @@ ArchGeo建筑几何(第 3 期)
 
   建筑位于利亚德阿卜杜拉国王金融区核心位置. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气. 
 
-  ![samba](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/samba.png)
+  (/asset/2021-3/samba.png)
 
   
 
@@ -63,7 +62,7 @@ ArchGeo建筑几何(第 3 期)
 
   大概位于吉达城市附近, 是沙特2030愿景计划之一,由Foster+partners设计, 灵感来自沙漠里的特殊纹理, 形状类沙丘. 整体由中央放射状分散5个吊舱结构. 机场内部有绿洲和本地植物种植的花园, 使用100%可再生能源供电.预计明年竣工, 目标2030年开始接待100万客流量. 
 
-  ![red see airport](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/red see airport.png)
+  (/asset/2021-3/red see airport.png)
 
   
 
@@ -71,7 +70,7 @@ ArchGeo建筑几何(第 3 期)
 
   隈研吾团队设计了同属于红海国际机场的红海计划的奢华度假酒店, 屋顶结构是curve-fold形状的可展曲面. 
 
-  ![隈研吾](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/隈研吾.png)
+  (/asset/2021-3/隈研吾.png)
 
   
 
@@ -79,7 +78,7 @@ ArchGeo建筑几何(第 3 期)
 
   由AS+GG设计的吉达摩天塔, 2013年开建, 本预计2020年完工, 并以其超过1000米的高度成为世界上最高的建筑. 但目前已经无限期搁浅.
 
-  ![jeddah tower](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/jeddah tower.png)
+  (/asset/2021-3/jeddah tower.png)
 
   
 
@@ -87,7 +86,7 @@ ArchGeo建筑几何(第 3 期)
 
   同样由AS+GG设计的成都蜀峰绿地中心, 预计今年7月封顶后达到468米高, 将成为成都第一高楼.
 
-  ![蜀峰468](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/蜀峰468.png)
+  (/asset/2021-3/蜀峰468.png)
 
   
 
@@ -95,7 +94,7 @@ ArchGeo建筑几何(第 3 期)
 
   以色列艺术家Zygo及团队设计迪拜'衣夹'塔效果图, 高170m, 有望成为迪拜最有辨识度的地标建筑.
 
-  ![clothespin](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/clothespin.png)
+  (/asset/2021-3/clothespin.png)
 
   
 
@@ -103,7 +102,7 @@ ArchGeo建筑几何(第 3 期)
 
   亚马逊继2018年在西雅图市中心为员工建造三个球形热带雨林的工作环境之后, 今年在阿灵顿建造形状如螺旋面的第二个总部. 灵感来自DNA螺旋结构, 高约107米, 22层, 能容纳1万3千名员工.
 
-  ![the helix](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/the helix.png)
+  (/asset/2021-3/the helix.png)
 
   
 
@@ -111,7 +110,7 @@ ArchGeo建筑几何(第 3 期)
 
   由Frank Gery设计的法国LUMA艺术中心被评价为'不锈钢龙卷风'. 尽管外立面不是Frank标志性的可展曲面, 但钢表面仍是他所坚持和喜爱的. 这个像是被切割或扭曲的多面体由11000个不锈钢面板构成.
 
-  ![luma](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/luma.png)
+  (/asset/2021-3/luma.png)
 
   
 
@@ -119,7 +118,7 @@ ArchGeo建筑几何(第 3 期)
 
   清华大学建筑学院徐卫国教授团队自主研发设计的3D打印混凝土住宅, 面积40平方米, 包含卧室,客厅,厨房,洗手间等, 可住4人.
 
-  ![3d-printer](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/3d-printer.png)
+  (/asset/2021-3/3d-printer.png)
 
   
 
@@ -127,7 +126,7 @@ ArchGeo建筑几何(第 3 期)
 
   奥地利电视品牌C SEED 推出全球首款165英寸可折叠电视M1, 屏幕由5块子屏幕构成, 开启后, 呈柱面升起再展成一块大平面, 售价约259万元. 定位奢华高端, 目标带来全新体验.
 
-  ![c-seed-m1](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/c-seed-m1.png)
+  (/asset/2021-3/c-seed-m1.png)
 
   
 
@@ -135,7 +134,7 @@ ArchGeo建筑几何(第 3 期)
 
   尽管超高建筑存在隐患和利用率不高的问题, 人类对超高建筑的追求总是无止境, 从300多米的埃菲尔铁塔开始, 就一直在不断突破新的高度. 如今最高的仍是828米的哈利法塔, 对1000米高度的追求在吉达国王塔这里出现了搁浅, 而实际上, 未来还有更多的超高建筑正在计划, 其中包括对应<一千零一夜>童话的1001米高的科威特Mubark Al Kabeer Tower, 已经停工的1350米高的迪拜Dubai Creek Tower, '下一个东京2045'计划之一的1700米高的Sky Mile Tower, 还有最传奇的预计2050年完成的1733米高的纽约Times Squared 3015 (直呼好家伙! 祝它好运!). 
 
-  ![Skyscraper](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/Skyscraper.jpg)
+  (/asset/2021-3/Skyscraper.jpg)
 
 ------
 
@@ -194,7 +193,7 @@ ArchGeo建筑几何(第 3 期)
 
    按书法,绘画,青铜器,织秀,建筑等分类, 只有图片和文字介绍. 界面缺点是点入分类之后没有缩略图方便查看所有, 需要挨个点击文字查看图片.
 
-   ![gugong](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/gugong.png)
+   (/asset/2021-3/gugong.png)
 
 2. [chrome实时字幕](https://www.extfans.com/articles/1446)
 
@@ -204,7 +203,7 @@ ArchGeo建筑几何(第 3 期)
 
    需要chrome插件Tampermonkey+软件Youtube Subtitle Downloader
 
-   ![script](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-3/script.png)
+   (/asset/2021-3/script.png)
 
 4. Lingocloud彩云小译网页/局部选取翻译
 
