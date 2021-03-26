@@ -50,9 +50,7 @@ ArchGeo建筑几何(第 3 期)
 
 - #### [Samba Headquater](https://www.fosterandpartners.com/projects/samba-headquarters/)
 
-  我在KAUST 办的银行卡公司SAMBA正在沙特首都利亚德建立总部大楼, 由Foster+partners设计.
-
-  建筑位于利亚德阿卜杜拉国王金融区核心位置. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气. 
+  我在KAUST 办的银行卡公司SAMBA正在沙特首都利亚德建立总部大楼, 由Foster+partners设计. 建筑位于利亚德阿卜杜拉国王金融区核心位置. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气. 
 
   ![samba](/asset/2021-3/samba.png)
 
@@ -62,7 +60,7 @@ ArchGeo建筑几何(第 3 期)
 
   大概位于吉达城市附近, 是沙特2030愿景计划之一,由Foster+partners设计, 灵感来自沙漠里的特殊纹理, 形状类沙丘. 整体由中央放射状分散5个吊舱结构. 机场内部有绿洲和本地植物种植的花园, 使用100%可再生能源供电.预计明年竣工, 目标2030年开始接待100万客流量. 
 
-  ![airport](/asset/2021-3/red see airport.png)
+  ![airport](/asset/2021-3/airport.png)
 
   
 
@@ -78,7 +76,7 @@ ArchGeo建筑几何(第 3 期)
 
   由AS+GG设计的吉达摩天塔, 2013年开建, 本预计2020年完工, 并以其超过1000米的高度成为世界上最高的建筑. 但目前已经无限期搁浅.
 
-  ![jeddah](/asset/2021-3/jeddah tower.png)
+  ![jeddah](/asset/2021-3/jeddah_tower.png)
 
   
 
@@ -102,7 +100,7 @@ ArchGeo建筑几何(第 3 期)
 
   亚马逊继2018年在西雅图市中心为员工建造三个球形热带雨林的工作环境之后, 今年在阿灵顿建造形状如螺旋面的第二个总部. 灵感来自DNA螺旋结构, 高约107米, 22层, 能容纳1万3千名员工.
 
-  ![helix](/asset/2021-3/the helix.png)
+  ![helix](/asset/2021-3/helix.png)
 
   
 
@@ -118,7 +116,7 @@ ArchGeo建筑几何(第 3 期)
 
   清华大学建筑学院徐卫国教授团队自主研发设计的3D打印混凝土住宅, 面积40平方米, 包含卧室,客厅,厨房,洗手间等, 可住4人.
 
-  ![3d](/asset/2021-3/3d-printer.png)
+  ![3d](/asset/2021-3/3d_printer.png)
 
   
 
@@ -126,7 +124,7 @@ ArchGeo建筑几何(第 3 期)
 
   奥地利电视品牌C SEED 推出全球首款165英寸可折叠电视M1, 屏幕由5块子屏幕构成, 开启后, 呈柱面升起再展成一块大平面, 售价约259万元. 定位奢华高端, 目标带来全新体验.
 
-  ![m1](/asset/2021-3/c-seed-m1.png)
+  ![m1](/asset/2021-3/c_seed_m1.png)
 
   
 
