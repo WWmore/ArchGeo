@@ -55,7 +55,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   
 
-- #### 黄龙滨水竹廊
+- #### [黄龙滨水竹廊](https://www.archdaily.cn/cn/960532/huang-long-bin-shui-zhu-lang-shu-liang-she-plus-hua-nan-li-gong-da-xue-jian-zhu-xue-yuan)
 
   封面图片是位于佛山黄龙村的滨水竹廊, 由竖梁社和华南理工大学建筑学院用时半年的时间实现了从设计到使用的过程. 
 
@@ -125,7 +125,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   
 
-- #### 曲线曲面参考字典
+- #### [曲线曲面参考字典](https://mathcurve.com/surfaces.gb/surfaces.shtml#S)
 
   介绍2D/3D曲线和曲面的命名来源, 表示方程, 性质, 相关联其他族内曲线曲面, 现实应用实例等. 界面简单直白. 
 
