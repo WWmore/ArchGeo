@@ -10,7 +10,6 @@
 ## 2021
 
 - 第 1 期：[首期个人分享](doc/issue-1.md)
-
 - 第 2 期：[运动几何学](doc/issue-2.md)
-
 - 第 3 期：[未来超高建筑](doc/issue-3.md)
+- 第 4 期：[AAG2020 会议](doc/issue-4.md)
