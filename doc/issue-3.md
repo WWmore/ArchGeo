@@ -40,7 +40,7 @@ ArchGeo建筑几何(第 3 期)
 
 - #### [KAFD Conference Center 会议中心](https://www.som.com/china/projects/kafd_conference_center__structural_engineering)
 
-  由SOM 设计, 2017万完工. 也是位于利亚德阿卜杜拉国王金融区. 外立面的构造过程从点云, 生成三角网格, 再表面细分更多小三角网格, 结构考虑阳光照射问题.
+  由SOM设计, 2017年完工. 也位于利亚德阿卜杜拉国王金融区. 外立面的构造过程从点云, 生成三角网格, 再表面细分更多小三角网格, 结构考虑阳光照射问题.
 
   ![kafd1](/asset/2021-3/kafd1.png)
 
@@ -50,7 +50,7 @@ ArchGeo建筑几何(第 3 期)
 
 - #### [Samba Headquater](https://www.fosterandpartners.com/projects/samba-headquarters/)
 
-  我在KAUST 办的银行卡公司SAMBA正在沙特首都利亚德建立总部大楼, 由Foster+partners设计. 建筑位于利亚德阿卜杜拉国王金融区核心位置. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气. 
+  在KAUST办的银行卡SAMBA公司正在利亚德建立的总部大楼, 由Foster+partners设计. 建筑位于利亚德阿卜杜拉国王金融区核心位置. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气. 
 
   ![samba](/asset/2021-3/samba.png)
 
@@ -64,9 +64,9 @@ ArchGeo建筑几何(第 3 期)
 
   
 
-- #### [沙特豪华别墅](https://www.archdaily.cn/cn/957894/wei-yan-wu-she-ji-sha-te-a-la-bo-she-hua-du-jia-cun-sui-chang-di-qi-fu-yu-shui-lu-jian?ad_name=article_cn_redirect=popup)
+- #### [沙特红海豪华别墅](https://www.archdaily.cn/cn/957894/wei-yan-wu-she-ji-sha-te-a-la-bo-she-hua-du-jia-cun-sui-chang-di-qi-fu-yu-shui-lu-jian?ad_name=article_cn_redirect=popup)
 
-  隈研吾团队设计了同属于红海国际机场的红海计划的奢华度假酒店, 屋顶结构是curve-fold形状的可展曲面. 
+  隈研吾团队设计了同属于红海国际机场的'红海计划'的奢华度假酒店, 屋顶结构是curve-fold形状的可展曲面. 
 
   ![hotel](/asset/2021-3/隈研吾.png)
 
@@ -90,7 +90,7 @@ ArchGeo建筑几何(第 3 期)
 
 - #### [Clothespin Tower 衣夹塔](https://www.designboom.com/architecture/emerald-italy-zygo-clothespin-tower-dubai-uae-02-18-2021/)
 
-  以色列艺术家Zygo及团队设计迪拜'衣夹'塔效果图, 高170m, 有望成为迪拜最有辨识度的地标建筑.
+  以色列艺术家Zygo及团队设计迪拜'衣夹'塔, 高170m, 有望成为迪拜最有辨识度的地标建筑.
 
   ![clothespin](/asset/2021-3/clothespin.png)
 
@@ -130,7 +130,7 @@ ArchGeo建筑几何(第 3 期)
 
 - #### 世界未来超高建筑
 
-  尽管超高建筑存在隐患和利用率不高的问题, 人类对超高建筑的追求总是无止境, 从300多米的埃菲尔铁塔开始, 就一直在不断突破新的高度. 如今最高的仍是828米的哈利法塔, 对1000米高度的追求在吉达国王塔这里出现了搁浅, 而实际上, 未来还有更多的超高建筑正在计划, 其中包括对应<一千零一夜>童话的1001米高的科威特Mubark Al Kabeer Tower, 已经停工的1350米高的迪拜Dubai Creek Tower, '下一个东京2045'计划之一的1700米高的Sky Mile Tower, 还有最传奇的预计2050年完成的1733米高的纽约Times Squared 3015 (直呼好家伙! 祝它好运!). 
+  尽管超高建筑存在隐患和利用率不高的问题, 人类对超高建筑的追求总是无止境, 从300多米的埃菲尔铁塔开始, 就一直在不断突破新的高度. 如今最高的仍是828米的哈利法塔, 对1000米高度的追求在吉达国王塔出现了搁浅, 而实际上, 未来还有更多的超高建筑正在计划, 其中包括对应<一千零一夜>童话的1001米高的科威特Mubark Al Kabeer Tower, 已经停工的1350米高的迪拜Dubai Creek Tower, '下一个东京2045'计划之一的1700米高的Sky Mile Tower, 还有最传奇的预计2050年完成的1733米高的纽约Times Squared 3015 (直呼好家伙! 祝它好运!). 
 
   ![skyscraper](/asset/2021-3/Skyscraper.jpg)
 
