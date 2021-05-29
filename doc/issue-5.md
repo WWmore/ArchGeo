@@ -17,9 +17,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   封面图片是今年即将举办的迪拜世博会的专题展区亭子. 每个平面四边形结构嵌入在沿着主法曲率方向的网架上.
 
-  ![expo](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/expo1.png)
-
-  
+  ![expo](/asset/2021-5/expo1.png)
 
   世博会首次举办时间是1851年, 这是170年来首次在中东举办. 中国承办过的城市有昆明(专业),上海(综合),西安(专业),北京(专业). 今年在阿联酋🇦🇪举办时间是10月1日至明年3月31日(因新冠疫情被延后一年), 类型:综合, 下一届在卡塔尔🇶🇦首都多哈举办, 类型:专业.
 
@@ -29,9 +27,9 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   由BIG事务所设计,预计2025年建成. 内部木质屋顶渲染图是由一组木条构成的可展曲面形状. 类似哈利法塔局部屋顶设计.
 
-  ![big](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/big.png)
+  ![big](/asset/2021-5/big.png)
 
-  ![burj](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/burj.png)
+  ![burj](/asset/2021-5/burj.png)
 
   Burj Khalifa 哈利法塔木屋顶.
 
@@ -41,7 +39,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   北京石景山游乐园活动剧场外边面是由许多白色膜结构构成, 基础框架是正方形网格(grid), 每个看似全等的平面四边形膜材料三个角点被固定在框架上,另一个角点在不同程度上被提起, 形成各不相同的形状, 整体有种渐变的形态.
 
-  ![feixing](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/feixingtianxia.png)
+  ![feixing](/asset/2021-5/feixingtianxia.png)
 
   
 
@@ -49,7 +47,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   每个窗口外立面由不规则的多变形构造,看似被切割的多面体. 造型非常类似扎哈事务所设计的阿卜杜拉国王石油研发中心.
 
-  ![ardete](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/ardete.png)
+  ![ardete](/asset/2021-5/ardete.png)
 
   对这种窗口上做文章的还有如下两种简化造型.
 
@@ -59,7 +57,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   位于维也纳11区的公寓楼, 窗口外边面是小房子形状.
 
-  ![vienna](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/vienna1.png)
+  ![vienna](/asset/2021-5/vienna1.png)
 
   
 
@@ -67,7 +65,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   位于维也纳22区的公寓楼.
 
-  ![vienna2](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/vienna2.png)
+  ![vienna2](/asset/2021-5/vienna2.png)
 
   
 
@@ -75,7 +73,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   宜家的三款灯罩, 分别是平面捏成的类褶皱的纸张造型, kagomi测地线竹网, 三角测地竹网.
 
-  ![ikea](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/ikea.png)
+  ![ikea](/asset/2021-5/ikea.png)
 
   
 
@@ -83,7 +81,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   由同济大学组织的与数字建筑相关的线上/线下结合的国际会议/讲座/讨论班. 今年6月12-7月3日举办. 可以免费申请.
 
-  ![df](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/DF.png)
+  ![df](/asset/2021-5/DF.png)
 
 ------
 
@@ -103,7 +101,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   截止目前列出来的[会议接收文章](http://kesen.realtimerendering.com/sig2021.html), 除了不同团队强强联合能有人合作5篇文章被接收外, 发现今年还分别有两个华人各自单独投稿被接收了文章. 工作量之大可见能力之强.
 
-  ![sig](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/siggraph.png)
+  ![sig](/asset/2021-5/siggraph.png)
 
   
 
@@ -123,7 +121,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   如果确定螺线上的点的数量, 随着螺旋曲线的增长,这些点形成的多边线(polyline)会是越来越稀疏的近似. 该网页展示了这个动态变化过程, 并形成了非常漂亮的动态几何图案.
 
-  ![spiral](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/spiral.png)
+  ![spiral](/asset/2021-5/spiral.png)
 
   
 
@@ -131,7 +129,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   将于下个月出版数学家黑板图片集. 包括陶哲轩,孙圣荣, Misha Gromov等数学家的作品.
 
-  ![chalkboard](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/chalkboard.png)
+  ![chalkboard](/asset/2021-5/chalkboard.png)
 
   
 
@@ -139,7 +137,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   在线推导数列关系(找数列规律).
 
-  ![list](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/list.png)
+  ![list](/asset/2021-5/list.png)
 
 ------
 
@@ -151,7 +149,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   Grasshopper插件,生成一些曲线和曲面.
 
-  ![geodex](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/geodex.png)
+  ![geodex](/asset/2021-5/geodex.png)
 
   
 
@@ -159,7 +157,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   免费视频编辑软件. 可以快速识别中英文字幕加到视频上. 可手机,Mac, Win多版本使用. 界面只有中文版. 单独导入字幕srt文件需要额外插件. 无法导入字幕.
 
-  ![jianying](/Users/wangh0m/Documents/GitHub/ArchGeo/asset/2021-5/jianying.png)
+  ![jianying](/asset/2021-5/jianying.png)
 
 ------
 
