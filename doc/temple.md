@@ -7,6 +7,8 @@ ArchGeo建筑几何(第  期)
 > 这里记录每月以建筑几何AG(Architectural Geometry)为主的相关信息, 和值得分享的内容.
 > 每月月底更新.
 
+##### Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+
 ------
 
 
