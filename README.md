@@ -14,3 +14,5 @@
 - 第 3 期：[未来超高建筑](doc/issue-3.md)
 - 第 4 期：[AAG2020 会议](doc/issue-4.md)
 - 第 5 期：[迪拜世博会2020](doc/issue-5.md)
+- 第 6 期：[参数曲面](doc/issue-6.md)
+
