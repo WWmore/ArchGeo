@@ -43,7 +43,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   Thomas Heeatherwick为伦敦一所医院设计的幕墙, 钢网编织结构. 每四个全等的双曲面板经过旋转对称拼接得到一组基本结构, 并由这一基本结构作为子单元复制拼接构造成整体表面. 其中最小的双曲面板可以直接由四条全等的3次Bezier曲线作为边界线生成.
 
-  ![facade](/asset/2021-7/arch_boilder_suit.png)
+  ![facade](/asset/2021-7/arch_boiler_suit.png)
 
   
 
@@ -91,7 +91,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   
 
-- #### SGP 2021 几何处理研讨会
+- #### [SGP 2021 几何处理研讨会](https://sgp2021.github.io/)
 
   从2003年开始,每年暑期都如期举办的关于几何处理最新研究的会议. 去年和今年都是线上举办. 之前届会议都是在欧洲城市举办,今年由多伦多大学承办,7月10-14日,包含两天研究生课程,三天会议报告.
 
@@ -136,7 +136,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 - #### [GUROBI](https://www.gurobi.com/)
 
-  由Zonghao **Gu**, Edward **Ro**thberg and Robert **Bi**xby创立的数学优化软件,可以实现整数规划,非线性规划等问题. 集合了LINGO和LINDO功能. Zonghao **Gu**也是LINDO的早起开发者.
+  由Zonghao **Gu**, Edward **Ro**thberg and Robert **Bi**xby创立的数学优化软件,可以实现整数规划,非线性规划等问题. 集合了LINGO和LINDO功能. Zonghao **Gu**也是LINDO的早期开发者.
   
   ![gurobi](/asset/2021-7/soft_gurobi.png)
 
@@ -150,9 +150,8 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 > 建筑是日常生活的"背景或框架", 它的空间和形式是由栖居者的"舒适和使用"需求来决定的.
 
-> 艺术中的启示是体验的加速扩张.人们说哲学始于惊奇,终于理解. 艺术是从已被理解的事物出发,最后结束于惊奇.
+> 艺术中的启示是体验的加速扩张.人们说哲学始于惊奇,终于理解. 艺术是从已被理解的事物出发,最后结束于惊奇.一个艺术家的价值足以跨越千秋万代.
 >
-> 一个艺术家的价值足以跨越千秋万代.
 
 > 自古以来,建筑就渴望通过几何结构和数学比例的运用把人类的世界和宇宙的法则联系起来,以求创造出神界与凡界的和谐共鸣.
 
@@ -177,7 +176,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 >
 > 通过视觉,我们摸到了星星和太阳.
 
-> ""阴影背身是属于光明的."---赖特
+> "阴影背身是属于光明的."---赖特
 >
 
 > 随着建筑工地上的机械轰鸣声逐渐退去,工人的劳动号子也停歇了下来,一座伟大的建筑就变成了一座为寂静竖立的永恒丰碑,静候着未知时代的来临.
