@@ -15,4 +15,5 @@
 - 第 4 期：[AAG2020 会议](doc/issue-4.md)
 - 第 5 期：[迪拜世博会2020](doc/issue-5.md)
 - 第 6 期：[参数曲面](doc/issue-6.md)
+- 第 7 期：[东京奥运会](doc/issue-7.md)
 
