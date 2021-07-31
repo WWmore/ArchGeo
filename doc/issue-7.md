@@ -174,6 +174,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 > 我们栖居于两个世界之中,一是由物质和感官体验组成的实体世界,二是由文化,观念和意向组成的心理世界.
 >
+
 > 通过视觉,我们摸到了星星和太阳.
 
 > "阴影背身是属于光明的."---赖特
