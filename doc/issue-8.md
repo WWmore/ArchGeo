@@ -83,8 +83,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   
 
-- #### [Tegula 几何贴图库](https://www.wsi.uni-tuebingen.de/lehrstuehle/algorithms-in-bioinformatics/software/tegula
-https://github.com/husonlab/tegula)
+- #### [Tegula 几何贴图库](https://www.wsi.uni-tuebingen.de/lehrstuehle/algorithms-in-bioinformatics/software/tegula)
 
   由图宾根大学研发，实现二维周期平铺的开源程序，有近24亿个贴图(tiling). 有三个数据集文件，包括欧式平面，球面，双曲几何贴图. 软件界面展示所有可能图形，可以设置数量和大小参数，调节基本域改变设计结果，可以交互拖拽，可得到对偶图形，最大对称图形，可以保存打印.
 
