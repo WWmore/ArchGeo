@@ -16,4 +16,5 @@
 - 第 5 期：[迪拜世博会2020](doc/issue-5.md)
 - 第 6 期：[参数曲面](doc/issue-6.md)
 - 第 7 期：[东京奥运会](doc/issue-7.md)
+- 第 8 期：[SIGGRAPH会议](doc/issue-8.md)
 
