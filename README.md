@@ -17,5 +17,6 @@
 - 第 6 期：[参数曲面](doc/issue-6.md)
 - 第 7 期：[东京奥运会](doc/issue-7.md)
 - 第 8 期：[SIGGRAPH会议](doc/issue-8.md)
-- 第 9 期: [景观雕塑](doc/issue-9.md)
+- 第 9 期:  [景观雕塑](doc/issue-9.md)
+- 第 10 期:  [鱿鱼游戏](doc/issue-10.md)
 
