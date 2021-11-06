@@ -49,7 +49,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
   由新加坡科技设计大学(SUTD)为新加坡成立50周年设计的. 外表面是半封闭半通透的复杂网结构, 内表面主体是正则三角网支撑结构. 展厅获得iF 绿色建筑奖. 
 
-  ![future_of_us](/asset/2021-10/future_of_us.png)
+  ![fou](/asset/2021-10/future_of_us.png)
 
   
 
