@@ -72,7 +72,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 - [Python 迭代器介绍](http://www.dabeaz.com/generators/Generators.pdf)
 
-  作者David Beazley是自由CS专家, 经营自己的Python教育,出版<Python Cookbook>, <Python Essential Reference>, <Python Distilled>.
+  作者David Beazley是自由CS专家, 经营自己的Python教育,出版< Python Cookbook >, < Python Essential Reference >, < Python Distilled >.
 
 - #### [SiteShot](https://www.site-shot.com/)
 
