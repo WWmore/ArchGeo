@@ -20,4 +20,5 @@
 - 第 9 期:  [景观雕塑](doc/issue-9.md)
 - 第 10 期:  [鱿鱼游戏](doc/issue-10.md)
 - 第 11 期:  [熊猫基地瞭望塔](doc/issue-11.md)
+- 第 12 期:  [年终分享](doc/issue-12.md)
 
