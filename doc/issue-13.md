@@ -1,5 +1,5 @@
 > 记录以建筑几何(Architectural Geometry)为主的相关信息, 和想分享的内容.
->GitHub([WWmore/ArchGeo](https://github.com/wwmore/ArchGeo))同步微信公众号(WWmore).每月月底更新.
+> GitHub([WWmore/ArchGeo](https://github.com/wwmore/ArchGeo))同步微信公众号(WWmore).每月月底更新.
 
 Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 
@@ -116,9 +116,9 @@ Images from the internet. If there is any copyright infringement, please notify 
 - #### [<美的力量，参数化的未来与中国建筑崛起>](http://www.patrikschumacher.com/Texts/The%20Power%20of%20Beauty_the%20Promise%20of%20Parametricism%20and%20China%20Architectural%20Ascendance.html) --- Patrik Schumacher
 
   扎哈事务所合伙人帕特里克·舒马赫(Patrik Schumacher)于2014年写的一篇文章. 他没有将扎哈的建筑风格定义为解构主义,而是参数化主义: 一种以计算机辅助基于参数化设计为技术基础的建筑风格. 解构主义美化和升华了城市的无序性特点, 而参数化主义开创建筑负熵新阶段, 增加了自由度,提升了秩序.他认为这种秩序是关系上的而不是几何上的.他坚信中国才是当代建筑最集中的焦点, 中国的参数化时代已经到来.
-  
+
   > 中国将成为参数化大放异彩的主战场，中国建筑将不再仅以尺度和数量取胜，大胆、前卫的外观和革新意识与创造力将为参数化插上腾飞的羽翼，引领21 世纪全新的具有划时代意义的设计风格。
-  
+
   > 中国的能量来源于全面开放、乐于参与全球竞争的态度，积极创造新形态、全球最佳的建筑实践。而这也正是在当代紧密联结的全球文化网络下唯一真正可行的创新手段。
 
 - #### <1Q84> --- 村上春树
@@ -141,7 +141,7 @@ Images from the internet. If there is any copyright infringement, please notify 
   > 二十年漫长岁月,期间各种各样的事情都可能发生.有许许多多东西降生,几乎同样多的东西消逝,幸存下来的东西也会变形变质.这岁月就是如此漫长.然而对坚定的心来说,那却不算太长.纵使两人的重逢再晚二十年,他面对青豆时的心情大概仍然与此刻一样激动不已,像此刻一样心慌意乱,心底肯定会充满同样的喜悦和确信.
   >
 
-  
+
 
 - #### <海边的卡夫卡> --- 村上春树
 
