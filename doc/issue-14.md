@@ -68,7 +68,7 @@ ArchGeo建筑几何(第 14 期): 迪拜世博会2020
 
   外表灯笼形状, 名为“华夏之光”, 寓意希望和光明. 晚上会有灯光秀. 参观的时候队伍没有很长, 没看见机器人, 没看见熊猫玩偶, 唯一交互的高铁体验被圈起来了. 再就没有其他交互体验项了,确实很迎合"机遇展区"的理念, 是 to business 而非 to customs. 
 
-  ![china](/asset/2022-2/china.JPG)
+  ![china](/asset/2022-2/china.png)
 
 - #### [奥地利馆](https://www.expo2020dubai.com/en/understanding-expo/participants/country-pavilions/austria)
 
@@ -86,13 +86,13 @@ ArchGeo建筑几何(第 14 期): 迪拜世博会2020
 
   外表由1000多根多彩的铝管包裹, 外形独树一帜, 是个人最喜欢的展馆之一. 内部展示内容也充满了科幻高科技感, 视觉冲击力非常强.
 
-  ![russ](/asset/2022-2/russia.JPG)
+  ![russ](/asset/2022-2/russia.png)
 
 - #### [比利时馆](https://www.archdaily.cn/cn/971511/lu-se-gong-men-2020-nian-di-bai-shi-bo-hui-bi-li-shi-guan-vincent-callebaut-architectures-plus-assar-architects)
 
   Assar / Vincent Callebaut公司设计. 外表是由多根平直木板装饰, 包络面是二次双曲面.
 
-  ![bel](/asset/2022-2/belgian.JPG)
+  ![bel](/asset/2022-2/belgian.png)
 
 - #### [伊拉克馆](https://www.expo2020dubai.com/en/understanding-expo/participants/country-pavilions/iraq)
 
@@ -110,13 +110,13 @@ ArchGeo建筑几何(第 14 期): 迪拜世博会2020
 
   Marco Pestalozza公司设计. 外表呈金色多面体. 每个面并不是完全平的, 凸起的规则三角形形成立体的六边形表面. 24好正好赶上科威特国家馆日, 有本国乐队在Al Wasl表演唱歌.
 
-  ![kuw](/asset/2022-2/kuwait.JPG)
+  ![kuw](/asset/2022-2/kuwait.png)
 
 - #### [巴基斯坦馆](https://www.expo2020dubai.com/en/understanding-expo/participants/country-pavilions/pakistan)
 
   由获奖的巴基斯坦建筑师Rashid Rana和Al Jabal Eng公司设计. 外表面是多彩三角形装饰的锥面,有24000块独特的面板焊接而成. 
 
-  ![pak](/asset/2022-2/parkistan.JPG)
+  ![pak](/asset/2022-2/parkistan.png)
 
 - #### [美国馆](https://www.expo2020dubai.com/en/understanding-expo/participants/country-pavilions/usa)
 
