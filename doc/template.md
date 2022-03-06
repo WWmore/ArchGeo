@@ -1,3 +1,4 @@
+ArchGeo建筑几何(第 14 期): 迪拜世博会2020
 > 记录以建筑几何(Architectural Geometry)为主的相关信息, 和想分享的内容.
 > GitHub([WWmore/ArchGeo](https://github.com/wwmore/ArchGeo))同步微信公众号(WWmore).每月月底更新.
 
@@ -70,4 +71,4 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 ## 往期
 
-2021年 第 1 期：[首期个人分享](doc/issue-1.md)
+2021年 第 2 期：[首期个人分享](doc/issue-1.md)
