@@ -8,11 +8,21 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 
 
-## Architecture建筑
+## 
 
 - #### One
 
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/ArchGeo/2022-3/dubai_1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/ArchGeo/2022-3/dubai_2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/ArchGeo/2022-3/dubai_3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ------
 
