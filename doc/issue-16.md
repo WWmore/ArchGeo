@@ -1,4 +1,5 @@
 ArchGeo建筑几何(第 16 期): 弯曲褶皱建筑
+------
 Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 ------
 
@@ -97,6 +98,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/futurelab.png" width="500" />
 </p> 
+
 ------
 
 <center> <h3>往期</h3> </center>
