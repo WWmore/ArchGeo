@@ -1,10 +1,8 @@
 ArchGeo建筑几何(第 16 期): 弯曲褶皱建筑
-
 ------
 
 Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 
-------
 
 <center> <h3>Architecture建筑</h3> </center>
 
