@@ -94,7 +94,9 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 - #### [建筑交互面向智能未来会议](https://mp.weixin.qq.com/s/x7JvCFOw1l64p4zQ7mWwhA)
   由清华大学未来实验室组织的一天线上国际会议, 与本周五线上举办. 有免费直播连接.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/futurelab.png" width="500" />
+</p> 
 ------
 
 <center> <h3>往期</h3> </center>
