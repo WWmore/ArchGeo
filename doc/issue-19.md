@@ -37,4 +37,4 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 <center> <h3>往期</h3> </center>
 
-2021年 第 7 期：[AAG 会议](https://www.huiwang.me/blog/2021/issue7/)
+2021年 第 7 期：[东京奥运会](https://www.huiwang.me/blog/2021/issue7/)

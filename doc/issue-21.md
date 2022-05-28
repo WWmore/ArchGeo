@@ -37,4 +37,4 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 <center> <h3>往期</h3> </center>
 
-2021年 第 9 期：[AAG 会议](https://www.huiwang.me/blog/2021/issue9/)
+2021年 第 9 期：[景观雕塑](https://www.huiwang.me/blog/2021/issue9/)
