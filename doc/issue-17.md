@@ -1,4 +1,5 @@
 ArchGeo建筑几何(第 17 期): 土耳其建筑
+
 Part images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 ------
 
@@ -14,10 +15,10 @@ Part images from the internet. If there is any copyright infringement, please no
    锡南是土耳其伟大的建筑师,苏丹时期的首席建筑师. 他设计,建立,监管,修复了伊斯坦布尔绝大多数的蓝顶清真寺,多达477座. 也培养了很多学生继续这项工作. 在伊斯坦布尔, 至少316座可以明确与他的工作有关. 曾经去过欧洲, 也来过麦加朝圣. 参加过军队,早期信奉基督教, 后来转为伊斯兰教. 与同时代的米开朗基罗对比, 却并没有得到同等重要的名声和影响力.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/sinan_book.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/sinan.jpg" width="500" />
 </p> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/sinan.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/sinan1.png" width="500" />
 </p>
 
 
@@ -29,7 +30,7 @@ Part images from the internet. If there is any copyright infringement, please no
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA1.png" width="500" />
 </p>
 
-   室内设计也令人印象深刻, 有临时文化展亭, 博物馆, 游乐场, 连免税区都有独特的景观设计, 很有世博会的感觉.
+    室内设计也令人印象深刻, 有临时文化展亭, 博物馆, 游乐场, 连免税区都有独特的景观设计, 很有世博会的感觉.
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA2.png" width="500" />
@@ -38,7 +39,7 @@ Part images from the internet. If there is any copyright infringement, please no
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA4.png" width="500" />
 </p>
 
-   诺贝尔文学奖得主帕慕克经典小说《我的名字叫红》中提到土耳其保留的细密画(mininature), 在机场有相关文化活动展示.
+    诺贝尔文学奖得主帕慕克经典小说《我的名字叫红》中提到土耳其保留的细密画(mininature), 在机场有相关文化活动展示.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA3.png" width="500" />
 </p>
@@ -90,7 +91,7 @@ Part images from the internet. If there is any copyright infringement, please no
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/20.png" width="500" />
 </p>
 
-   ₺10纸币背面是提出Arf理论的Cahit Arf拓扑学数学教授. 他1937年在著名的数学殿堂---哥廷根大学博士毕业. 曾在位于土耳其Ankara的中东理工大学(METU)数学院任职,直到退休. METU有建筑学院.数学学科归属于艺术与科学学院. 
+    ₺10纸币背面是提出Arf理论的Cahit Arf拓扑学数学教授. 他1937年在著名的数学殿堂---哥廷根大学博士毕业. 曾在位于土耳其Ankara的中东理工大学(METU)数学院任职,直到退休. METU有建筑学院.数学学科归属于艺术与科学学院. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/10.png" width="500" />
 </p>
@@ -101,11 +102,6 @@ Part images from the internet. If there is any copyright infringement, please no
 - #### [Gridshell网壳](https://echoes.paris/keyword/structuraldesign/structuralgeometry/gridshell/)
 
    介绍一些网壳结构例子.
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/shell.png" width="500" />
-</p>
-
 
 ------
 
