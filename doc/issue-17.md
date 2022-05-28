@@ -30,7 +30,7 @@ Part images from the internet. If there is any copyright infringement, please no
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA1.png" width="500" />
 </p>
 
-    室内设计也令人印象深刻, 有临时文化展亭, 博物馆, 游乐场, 连免税区都有独特的景观设计, 很有世博会的感觉.
+  室内设计也令人印象深刻, 有临时文化展亭, 博物馆, 游乐场, 连免税区都有独特的景观设计, 很有世博会的感觉.
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA2.png" width="500" />
@@ -39,7 +39,7 @@ Part images from the internet. If there is any copyright infringement, please no
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA4.png" width="500" />
 </p>
 
-    诺贝尔文学奖得主帕慕克经典小说《我的名字叫红》中提到土耳其保留的细密画(mininature), 在机场有相关文化活动展示.
+  诺贝尔文学奖得主帕慕克经典小说《我的名字叫红》中提到土耳其保留的细密画(mininature), 在机场有相关文化活动展示.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA3.png" width="500" />
 </p>
@@ -91,7 +91,7 @@ Part images from the internet. If there is any copyright infringement, please no
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/20.png" width="500" />
 </p>
 
-    ₺10纸币背面是提出Arf理论的Cahit Arf拓扑学数学教授. 他1937年在著名的数学殿堂---哥廷根大学博士毕业. 曾在位于土耳其Ankara的中东理工大学(METU)数学院任职,直到退休. METU有建筑学院.数学学科归属于艺术与科学学院. 
+  ₺10纸币背面是提出Arf理论的Cahit Arf拓扑学数学教授. 他1937年在著名的数学殿堂---哥廷根大学博士毕业. 曾在位于土耳其Ankara的中东理工大学(METU)数学院任职,直到退休. METU有建筑学院.数学学科归属于艺术与科学学院. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/10.png" width="500" />
 </p>
