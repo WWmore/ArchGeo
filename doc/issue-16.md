@@ -27,7 +27,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 - #### [Rain bow gate](https://tonkinliu.co.uk/rain-bow-gate)
 
-  英国建筑公司Tonkin Liu设计的褶皱亭子. 2012年建成, 位于英国Burnley. Arup做结构工程. 也是采用薄钢结构, 3个支撑分支. 自由的褶皱表面上有该团队爱添加的孔洞特色. 看起来不是很大爷没有很复杂的结构, 花费了12.1万英镑.
+  英国建筑公司Tonkin Liu设计的褶皱亭子. 2012年建成, 位于英国Burnley. Arup做结构工程. 也是采用薄钢结构, 3个支撑分支. 自由的褶皱表面上有该团队爱添加的孔洞特色. 看起来不是很大也没有很复杂的结构, 花费了12.1万英镑.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/tonkin.png" width="500" />
@@ -95,7 +95,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 </p> 
 
 - #### [建筑交互面向智能未来会议](https://mp.weixin.qq.com/s/x7JvCFOw1l64p4zQ7mWwhA)
-  由清华大学未来实验室组织的一天线上国际会议, 与本周五线上举办. 有免费直播连接.
+  由清华大学未来实验室组织的一天线上国际会议, 于本周五线上举办. 有免费直播连接.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/futurelab.png" width="500" />
 </p> 
