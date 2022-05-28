@@ -83,7 +83,7 @@ Part images from the internet. If there is any copyright infringement, please no
 
 - #### [土耳其纸币₺](https://en.wikipedia.org/wiki/Turkish_lira)
 
-   纸币有₺5, ₺10, ₺20, ₺50, ₺100, ₺200这6中面额. 正面都是土耳其国父Mustafa的头像,而背面分别是土耳其的历史学家,数学家,建筑师,小说家,作曲家和诗人.
+   纸币有₺5, ₺10, ₺20, ₺50, ₺100, ₺200这6种面额. 正面都是土耳其国父Mustafa的头像,而背面分别是土耳其的历史学家,数学家,建筑师,小说家,作曲家和诗人.
 
    ₺20纸币背面有Gazi大学校徽,建筑师[Mimar Kemaleddin](https://en.wikipedia.org/wiki/Mimar_Kemaleddin)的头像及其标志性建筑.
  
