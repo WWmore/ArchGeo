@@ -1,6 +1,7 @@
-ArchGeo建筑几何(第 18 期): 葡萄酒馆
-Parts of images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+ArchGeo建筑几何(第 18 期): Cite du Vin 波尔多葡萄酒博物馆
 ------
+
+Parts of images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 
 <center> <h3>Architecture建筑</h3> </center>
 
@@ -10,7 +11,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
   由XTU建筑公司设计, 2016年建成, 位于法国西南部的葡萄酒之都的波尔多. 曲面整体形状流畅光滑, 呈现从上而下的条带结构, 但是面板形状和组成方式也呈现一种斜向纹理. 外表面面板是由金属, 玻璃等材料拼接而成的四边网结构, 底部主要面板是弯曲的, 塔楼处主要面板是平面的. 面板的一族(竖直方向的)支撑结构是连续的.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/vin2.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/vin2.jpg" width="500" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/vin12.png" width="500" />
