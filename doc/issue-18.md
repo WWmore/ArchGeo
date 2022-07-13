@@ -23,6 +23,12 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 ------
 <center> <h3>Math数学</h3> </center>
 
+- #### [Curves and Surfaces 2022 会议](https://cs2022.sciencesconf.org/)
+    第十届曲线曲面会议. 目前每四年举办一次. 今年在法国南部阿卡雄举办, 仅线下会议. 为期5天 (20-24,June).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/cs2022.png" width="500" />
+</p>
+
 - #### [Geometry Factory](https://geometryfactory.com/)
     CGAL项目, 实现了很多经典算法: ARAP形状形变, 点云分类, 简化网格, 平均曲率流框架, 找寻三角网上测地线, 平行线划分, 补洞, 三角网切割, 城市建筑网格化等等. 也赞助今年SGP会议.
 <p align="center">
