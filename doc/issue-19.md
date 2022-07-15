@@ -57,7 +57,7 @@ ArchGeo建筑几何(第 19 期): 西班牙建筑
 - #### Metro地铁站口
    位于城市广场的地铁口, 外表由三角化的玻璃表面构成.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madri_metro.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madrid_metro.png" width="500" />
 </p>  
 
    在马德里市内, 找到一处现代化的建筑并不容易. 在厚重的墙体外增加钢和玻璃结构是一种新的变化. 在火车站和丽池公园内的水晶宫,可以看到钢和玻璃大范围的应用.
