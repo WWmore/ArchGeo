@@ -33,19 +33,19 @@ ArchGeo建筑几何(第 19 期): 西班牙建筑
 - #### [Zubizuri桥](https://en.wikipedia.org/wiki/Zubizuri)
    在博物馆不远处的一座由圣地亚哥-卡拉特拉瓦设计的悬索人行桥. 白色+曲线弧度+直线包络, 其建筑风格特色明显. 已经在桥面铺设了地毯, 解决玻璃桥面在下雨后湿滑的诟病.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bibao_bridge.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_bridge.png" width="500" />
 </p>  
 
 - #### [Metro地铁站口](https://www.fosterandpartners.com/projects/bilbao-metro/)
    由英国建筑师Norman Foster设计. 外表是一族弯曲钢架结构和曲面玻璃构成. 大面积的玻璃面板带来很强的透光性和整洁感.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bibao_metro.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_metro.png" width="500" />
 </p>  
 
 - #### [BBK总部](https://www.zaha-hadid.com/architecture/bbk-bank-headquarters/)
    扎哈建筑公司2003年提出在毕尔巴鄂南部一个河湾小岛上的[城市更新规划](https://www.zaha-hadid.com/masterplans/zorrozaurre-masterplan/). 其中一个BBK塔从2010年计划开建, 目前仍处于没有任何雏形的状态.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bibao_zaha.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_zaha.png" width="500" />
 </p>  
 
 
@@ -57,12 +57,12 @@ ArchGeo建筑几何(第 19 期): 西班牙建筑
 - #### Metro地铁站口
    位于城市广场的地铁口, 外表由三角化的玻璃表面构成.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bibao_metro.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madri_metro.png" width="500" />
 </p>  
 
    在马德里市内, 找到一处现代化的建筑并不容易. 在厚重的墙体外增加钢和玻璃结构是一种新的变化. 在火车站和丽池公园内的水晶宫,可以看到钢和玻璃大范围的应用.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bibao_dome.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madrid_dome.png" width="500" />
 </p>   
 
    位于西班牙广场RIU大楼顶部, 可以看到整个马德里城市规划. 远处的查马丁地区有不少现代化的高楼建筑.
@@ -94,8 +94,9 @@ ArchGeo建筑几何(第 19 期): 西班牙建筑
    2000年建成. 对称结构, 类似鱼骨形状. 内部展示科普知识. 也有艺术科学城的设计模型及建筑群介绍. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_1.png" width="500" />
+</p>    
    内部结构通透, 树状的支撑结构, 大面积褶皱的玻璃幕墙增加空间层次感.
-</p>  
+<p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_11.png" width="500" />
 </p>  
 
@@ -122,12 +123,13 @@ ArchGeo建筑几何(第 19 期): 西班牙建筑
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_3.png" width="500" />
 </p>  
+   海洋馆旁边的球形鸟笼, 四边网框架和三角网框架的混合结构. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_7.png" width="500" />
 </p> 
 
 - #### [金色堤坝大桥](https://en.wikipedia.org/wiki/Assut_de_l%27Or_Bridge)
-   卡拉特拉瓦也一同设计这个大桥. 2008年完成. 不同于毕尔巴鄂的双层斜拉桥, 这个是单层的. 和他在塞维利亚与耶路撒冷的桥很相似.
+   卡拉特拉瓦也一同设计这个大桥. 2008年完成. 不同于毕尔巴鄂的双层斜拉桥, 这个是单层的. 和他在塞维利亚与耶路撒冷设计的桥很相似.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_6.png" width="500" />
 </p>  
@@ -186,7 +188,7 @@ ArchGeo建筑几何(第 19 期): 西班牙建筑
 </p>  
 
 - #### [Torre Glòries 阿格巴塔](http://www.iarch.cn/thread-31806-1-1.html)
-   让•努维尔向高迪致敬设计的高塔, 巴塞罗那第三高塔楼 (144米). 旋转面结构, 四边网平面玻璃幕墙, 沿着旋转面的平行圆及罗阔线形成的主法曲率线规则排列.
+   让•努维尔向高迪致敬设计的高塔, 巴塞罗那第三高塔楼 (144米). 旋转面结构, 四边网平面玻璃幕墙, 沿着旋转面的平行圆及轮廓线形成的主法曲率线规则排列.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_2.png" width="500" />
 </p>  
@@ -246,6 +248,7 @@ ArchGeo建筑几何(第 19 期): 西班牙建筑
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/persepolis.png" width="500" />
 </p>  
+
 ------
 
 <center> <h3>往期</h3> </center>
