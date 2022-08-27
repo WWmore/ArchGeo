@@ -1,4 +1,4 @@
-ArchGeo建筑几何(第 20 期): 错位四边形
+ArchGeo建筑几何(第 20 期): SIGGRAPH会议
 Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 ------
 
@@ -13,6 +13,21 @@ Images from the internet. If there is any copyright infringement, please notify 
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-1/katar.png" width="500" />
 </p>
 
+
+- #### 东北大学vancouver校区
+
+- #### Vancouver House
+
+- #### 1568 Alberni Street
+
+- #### Vancouver Cardero
+
+- #### Trump Tower
+
+- #### 科学馆Geodesic Dome
+
+
+
 ------
 <center> <h3>Math数学</h3> </center>
 
@@ -25,13 +40,19 @@ Images from the internet. If there is any copyright infringement, please notify 
 
 <center> <h3>Software工具</h3> </center>
 
-- #### One
+- #### [GH运算器速查字典](https://www.kancloud.cn/li457357416/ghdictionary/2991615)
+
+- #### [GH Parakeet](https://www.food4rhino.com/en/app/parakeet#lg=1&slide=5)
+
+- #### [Hop as a GH plugin](https://www.food4rhino.com/en/app/hops)
 
 
 
 ------
 
 <center> <h3>Miscellaneous其他</h3> </center>
+
+- #### The roundest countries 最圆的国家
 
 ------
 
