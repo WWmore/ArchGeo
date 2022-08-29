@@ -1,9 +1,13 @@
-ArchGeo建筑几何(第 21 期): 利雅得建筑
-Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+ArchGeo建筑几何(第 21 期): 温哥华建筑
 ------
+
+Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+
 
 <center> <h3>Architecture建筑</h3> </center>
 
+
+这个月有幸去温哥华参加SIGGRAPH 2022线下会议，在那里待了一周的时间，这期简单介绍几个感兴趣的建筑.
 
 - #### [卡塔尔2022世界杯Al Janoub体育馆](https://www.archdaily.cn/cn/974818/qia-ta-er-2022nian-guo-ji-zu-lian-shi-jie-bei-ji-jiang-ju-ban-zu-qiu-chang-she-ji-xiang-mu-he-ji)
 
@@ -13,19 +17,25 @@ Images from the internet. If there is any copyright infringement, please notify 
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-1/katar.png" width="500" />
 </p>
 
+
+- #### 东北大学vancouver校区
+
+- #### Vancouver House
+
+- #### 1568 Alberni Street
+
+- #### Vancouver Cardero
+
+- #### Trump Tower
+
+- #### 科学馆Geodesic Dome
+
 ------
 <center> <h3>Math数学</h3> </center>
 
 - #### One
 
 
-
-------
-
-
-<center> <h3>Software工具</h3> </center>
-
-- #### One
 
 
 

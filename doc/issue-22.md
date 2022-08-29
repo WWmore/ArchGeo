@@ -1,13 +1,15 @@
-ArchGeo建筑几何(第 22 期):  错位四边形
-Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+ArchGeo建筑几何(第 22 期): 利雅得建筑
 ------
+
+Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+
 
 <center> <h3>Architecture建筑</h3> </center>
 
 
-- #### [卡塔尔2022世界杯Al Janoub体育馆](https://www.archdaily.cn/cn/974818/qia-ta-er-2022nian-guo-ji-zu-lian-shi-jie-bei-ji-jiang-ju-ban-zu-qiu-chang-she-ji-xiang-mu-he-ji)
+- #### [King Fahad Library](https://www.archdaily.cn/cn/974818/qia-ta-er-2022nian-guo-ji-zu-lian-shi-jie-bei-ji-jiang-ju-ban-zu-qiu-chang-she-ji-xiang-mu-he-ji)
 
-  第13期提到过扎哈-哈迪德建筑公司设计的世界杯体育场, 具有纯白的褶皱幕墙表面.
+  沙特国家图书馆
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-1/katar.png" width="500" />

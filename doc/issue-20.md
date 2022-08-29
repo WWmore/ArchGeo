@@ -1,52 +1,29 @@
-ArchGeo建筑几何(第 20 期): SIGGRAPH会议
-Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+ArchGeo建筑几何(第 20 期): SIGGRAPH 会议
 ------
+
+Part of images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+
 
 <center> <h3>Architecture建筑</h3> </center>
 
-
-- #### [卡塔尔2022世界杯Al Janoub体育馆](https://www.archdaily.cn/cn/974818/qia-ta-er-2022nian-guo-ji-zu-lian-shi-jie-bei-ji-jiang-ju-ban-zu-qiu-chang-she-ji-xiang-mu-he-ji)
-
-  第13期提到过扎哈-哈迪德建筑公司设计的世界杯体育场, 具有纯白的褶皱幕墙表面.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-1/katar.png" width="500" />
-</p>
-
-
-- #### 东北大学vancouver校区
-
-- #### Vancouver House
-
-- #### 1568 Alberni Street
-
-- #### Vancouver Cardero
-
-- #### Trump Tower
-
-- #### 科学馆Geodesic Dome
 
 
 
 ------
 <center> <h3>Math数学</h3> </center>
 
-- #### One
+- #### SIGGRAPH 2022会议
 
-
+  计算机图形学顶会，每年在北美举办，今年于8月8-11日在温哥华举办，首届线上线下同时进行会议. 不过部分会议文章仅线下展示, 某些报告和展览不能拍照等. 下届举办地是洛杉矶（LA），主席是英属哥伦比亚（UBC）CS教授Alla Sheffer.
 
 ------
-
-
 <center> <h3>Software工具</h3> </center>
 
 - #### [GH运算器速查字典](https://www.kancloud.cn/li457357416/ghdictionary/2991615)
+  中文创作的Grasshopper运算器精讲介绍，可以搜索查找. 初期免费，现需要支付解锁.
 
 - #### [GH Parakeet](https://www.food4rhino.com/en/app/parakeet#lg=1&slide=5)
-
-- #### [Hop as a GH plugin](https://www.food4rhino.com/en/app/hops)
-
-
+  GH 插件，介绍很多种规则、半规则、不规则2D图案.
 
 ------
 
