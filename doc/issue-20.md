@@ -21,8 +21,8 @@ Part of images from the internet. If there is any copyright infringement, please
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_east.png" width="500" />
 </p>
-  <center>会展东楼, 挨着Canada Place. 建筑是由建筑师Eberhard Zeidler和Barry Downs专门为1986年温哥华世博会设计的场馆.</center>
-
+  <center>会展东楼</center>
+  挨着Canada Place. 建筑是由建筑师Eberhard Zeidler和Barry Downs专门为1986年温哥华世博会设计的场馆.
 
 - #### [Mamous-Mani](https://mamou-mani.com/projects/)
   伦敦建筑设计公司, 制作了很多参数化设计的亭子. 2018年制作了Burning Man的 Galaxia Temple, 今年在Burning Man上也有一个木亭, 由大小渐变的平面六边形做成.
@@ -50,14 +50,14 @@ Part of images from the internet. If there is any copyright infringement, please
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/wi.png" width="500" />
 </p>
-    <center>WiGraphic</center>
-    由来自西班牙萨拉戈萨大学的Belen Masia, 瑞士ETH的Olga Sorkine-Hornung以及Meta的Yuting Ye三人分享女性在图形学的学术经验. 有幸和女神Olag单独合影.
+  <center>WiGraphic</center>
+  由来自西班牙萨拉戈萨大学的Belen Masia, 瑞士ETH的Olga Sorkine-Hornung以及Meta的Yuting Ye三人分享女性在图形学的学术经验. 有幸和女神Olag单独合影.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_1.png" width="500" />
 </p>  
-  <center>Electric theater 电子剧场, 介绍25个动画短片. 其中获奖作品《The end of war》令人印象深刻. 创作者是来自清华美院的动画设计师<a href="https://www.enad.tsinghua.edu.cn/info/1027/1368.htm" target="\_blank"> Chen Lei </a>. 使用数百帧CG雕塑模型描绘反战主题的动画. 灵感来源德国画家及雕塑家<a href="https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz" target="\_blank"> Käthe Kollwitz </a>的作品及她的生活经历.</center>
-
+  <center>Electric theater 电子剧场</center>
+  介绍25个动画短片. 其中获奖作品《The end of war》令人印象深刻. 创作者是来自清华美院的动画设计师<a href="https://www.enad.tsinghua.edu.cn/info/1027/1368.htm" target="\_blank"> Chen Lei </a>. 使用数百帧CG雕塑模型描绘反战主题的动画. 灵感来源德国画家及雕塑家<a href="https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz" target="\_blank"> Käthe Kollwitz </a>的作品及她的生活经历.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/vr.png" width="500" />
