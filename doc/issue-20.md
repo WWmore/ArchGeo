@@ -50,7 +50,7 @@ Part of images from the internet. If there is any copyright infringement, please
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_1.png" width="500" />
 </p>  
-<center>Electric theater 电子剧场, 介绍25个动画短片. 其中获奖作品《The end of war》令人印象深刻. 创作者是来此清华美院的动画设计师[Chen Lei](https://www.enad.tsinghua.edu.cn/info/1027/1368.htm). 使用数百桢CG雕塑模型描绘反战主题的动画. 灵感来源德国画家及雕塑家Käthe Kollwitz的作品及她的生活经历.</center>
+<center>Electric theater 电子剧场, 介绍25个动画短片. 其中获奖作品《The end of war》令人印象深刻. 创作者是来此清华美院的动画设计师<a href="https://www.enad.tsinghua.edu.cn/info/1027/1368.htm" target="\_blank"> Chen Lei </a>. 使用数百桢CG雕塑模型描绘反战主题的动画. 灵感来源德国画家及雕塑家<a href="https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz" target="\_blank"> Käthe Kollwitz </a>的作品及她的生活经历.</center>
 
 
 <p align="center">
