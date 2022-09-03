@@ -11,17 +11,17 @@ Part of images from the internet. If there is any copyright infringement, please
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_west.png" width="500" />
 </p>
-<center>会展西楼</center>
+  <center>会展西楼</center>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_west1.png" width="500" />
 </p>
-<center>会展西楼雕塑和2010冬奥会火炬点燃点</center>
+  <center>会展西楼雕塑和2010冬奥会火炬点燃点</center>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_east.png" width="500" />
 </p>
-<center>会展东楼, 挨着Canada Place. 建筑是由建筑师Eberhard Zeidler和Barry Downs专门为1986年温哥华世博会设计的场馆.</center>
+  <center>会展东楼, 挨着Canada Place. 建筑是由建筑师Eberhard Zeidler和Barry Downs专门为1986年温哥华世博会设计的场馆.</center>
 
 
 - #### [Mamous-Mani](https://mamou-mani.com/projects/)
@@ -44,43 +44,43 @@ Part of images from the internet. If there is any copyright infringement, please
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_west2.png" width="500" />
 </p>
-<center>会展西楼会场</center>
+  <center>会展西楼会场</center>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_1.png" width="500" />
 </p>  
-<center>Electric theater 电子剧场, 介绍25个动画短片. 其中获奖作品《The end of war》令人印象深刻. 创作者是来此清华美院的动画设计师<a href="https://www.enad.tsinghua.edu.cn/info/1027/1368.htm" target="\_blank"> Chen Lei </a>. 使用数百桢CG雕塑模型描绘反战主题的动画. 灵感来源德国画家及雕塑家<a href="https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz" target="\_blank"> Käthe Kollwitz </a>的作品及她的生活经历.</center>
+  <center>Electric theater 电子剧场, 介绍25个动画短片. 其中获奖作品《The end of war》令人印象深刻. 创作者是来此清华美院的动画设计师<a href="https://www.enad.tsinghua.edu.cn/info/1027/1368.htm" target="\_blank"> Chen Lei </a>. 使用数百桢CG雕塑模型描绘反战主题的动画. 灵感来源德国画家及雕塑家<a href="https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz" target="\_blank"> Käthe Kollwitz </a>的作品及她的生活经历.</center>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/vr.png" width="500" />
 </p>  
-<center>VR 体验厅. 半个多小时的沉浸式体验.</center>
+  <center>VR 体验厅. 半个多小时的沉浸式体验.</center>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/exhibition.png" width="500" />
 </p>  
-<center>Exhibition 展览大厅, 很多高科技公司展示最新前沿成果.</center>
+  <center>Exhibition 展览大厅, 很多高科技公司展示最新前沿成果.</center>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/capture.png" width="500" />
 </p>  
-<center>有实时动作捕捉的蹦床运动及双人舞表演.</center>
+  <center>有实时动作捕捉的蹦床运动及双人舞表演.</center>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/aibo.png" width="500" />
 </p>  
-<center>Sony索尼的机器狗宠物; 在市中心的艺术博物馆也有简单介绍.</center>
+  <center>Sony索尼的机器狗宠物; 在市中心的艺术博物馆也有简单介绍.</center>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/kaist.png" width="500" />
 </p> 
-<center>KAIST的机械设计.</center> 
+  <center>KAIST的机械设计.</center> 
 
 
 
