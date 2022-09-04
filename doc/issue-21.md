@@ -1,7 +1,7 @@
 ArchGeo建筑几何(第 21 期): 温哥华建筑
 ------
 
-Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+Part of images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 
 
 <center> <h3>Architecture建筑</h3> </center>
@@ -76,7 +76,7 @@ Images from the internet. If there is any copyright infringement, please notify 
   <center>对角线白色条带装饰的建筑.</center>
 
 - #### [Trump Tower 川普大楼](https://www.paradoxhotels.com/vancouver)
-  运行了超过5年的川普国际酒店, 20年8月永久关闭, 今年4月份开始改为Paradox Hotel. 
+  运行了超过5年的川普国际酒店, 20年8月永久关闭, 今年4月份开始改为Paradox Hotel. 结构由两侧扭曲的重复平行结构.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/trump.png" width="500" />
 </p>
@@ -91,7 +91,7 @@ Images from the internet. If there is any copyright infringement, please notify 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/GD_vancouver.png" width="500" />
 </p>
-  该结构灵感来自Fuller在1967年为蒙特利尔设计的Biosphere. 测地网壳不是Fuller最早研究的, 但是他最初使用美国专利的. 球面测地网壳结构坚固,对称,稳定,以最小的表面积包围了最大的体积.
+  该结构灵感来自Fuller在1967年为蒙特利尔设计的Biosphere. 测地网壳不是Fuller最早研究的, 但是他最初使用美国专利的. 其钟爱球面测地网壳结构主要是因为它具有坚固,对称,稳定,以最小的表面积包围了最大的体积等显著优势.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/GD_montreal.png" width="500" />
@@ -119,19 +119,6 @@ Images from the internet. If there is any copyright infringement, please notify 
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/ubc.png" width="500" />
 </p>
   <center>UBC校园CS所在楼.</center>
-
-------
-<center> <h3>Math数学</h3> </center>
-
-- #### One
-
-
-
-
-
-------
-
-<center> <h3>Miscellaneous其他</h3> </center>
 
 ------
 
