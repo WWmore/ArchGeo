@@ -1,7 +1,7 @@
 ArchGeo建筑几何(第 20 期): SIGGRAPH 会议
 ------
 
-Part of images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
+Parts of images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 
 
 <center> <h3>Architecture建筑</h3> </center>
