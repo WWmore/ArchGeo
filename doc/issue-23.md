@@ -1,4 +1,4 @@
-ArchGeo建筑几何(第 23 期):  
+ArchGeo建筑几何(第 23 期): 错位四边形
 ------
 Images from the internet. If there is any copyright infringement, please notify me at once and I'll delete it.
 
