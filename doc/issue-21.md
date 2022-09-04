@@ -62,7 +62,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 - #### [Vancouver Cardero](https://www.archdaily.cn/cn/985822/cardero-gong-yu-henriquez-partners-architects?ad_source=search&ad_medium=projects_tab)
   Henriquez Partners设计的公寓楼, 外表面由V字折纸形遮阳板构成. 获LEED金奖.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/cardero.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/cardero.png" width="200" />
 </p>
 
 <p align="center">
@@ -103,8 +103,14 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 </p>
   <center>艺术馆旁有玻璃覆层的三角网壳结构.</center>
 
+- #### [Glowbal门口结构](https://glowbalgroup.com/glowbal/)
+  有一族平面木板作为底层支撑结构, 可展曲面顶部是平面四边网玻璃覆层, 结构是简单的平移曲面. 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/wood.png" width="500" />
+</p>  
+
 - #### [Hotel Europe欧洲酒店](https://en.wikipedia.org/wiki/Hotel_Europe_(Vancouver))
-  Gastown区域的6层高的三角大楼, 1909年建成开放. 由Parr and Fee设计.
+  Gastown区域的6层高的三角大楼, 1909年建成开放. 由Parr and Fee设计. 设计受纽约熨斗大厦(Flatiron Building 1902)的影响. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/europe.png" width="500" />
 </p>
@@ -119,6 +125,13 @@ Parts of images from the internet. If there is any copyright infringement, pleas
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/ubc.png" width="500" />
 </p>
   <center>UBC校园CS所在楼.</center>
+
+
+- #### [Heatherwick设计住宅楼](https://www.archdaily.com/975139/heatherwick-studio-updates-vancouvers-1700-alberni-towers-design)
+  Heatherwick为温哥华设计的两栋双子塔楼: 1700 Alberni Towers 和 Curvaceous Towers. 结合了曲线, 渐变等参数化元素以及垂直绿色城市的概念.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/heatherwick.png" width="500" />
+</p>
 
 ------
 
