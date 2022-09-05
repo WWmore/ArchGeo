@@ -6,7 +6,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 
 <center> <h3>Architecture建筑</h3> </center>
 
-这个月有幸去温哥华参加<a href="https://www.huiwang.me/blog/2022/issue20/" target="\_blank"> SIGGRAPH 2022 </a>线下会议，在那里待了一周的时间，这期简单介绍几个感兴趣的建筑.
+8月有幸去温哥华参加<a href="https://www.huiwang.me/blog/2022/issue20/" target="\_blank"> SIGGRAPH 2022 </a>线下会议，在那里待了一周的时间，这期简单介绍几个感兴趣的建筑.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/van0.png" width="500" />
 </p>
