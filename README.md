@@ -8,6 +8,7 @@
 
 ## 2022
 
+- 第 22 期：[利雅得建筑](doc/issue-22.md)
 - 第 21 期：[温哥华建筑](doc/issue-21.md)
 - 第 20 期：[SIGGRAPH会议](doc/issue-20.md)
 - 第 19 期：[西班牙建筑](doc/issue-19.md)
