@@ -82,7 +82,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
   依旧延续了扎哈事务所参数化异形的建模风格, 该地铁站的样子又超过了人们的想象. 从2012年开建, 本预计去年完工, 但暑假看到仍在装修中. 预计2030年每天满载的情况下运送360万名乘客, 减少汽车出行次数.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/metro.jpg" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/metro.png" width="500" />
 </p>
 
 - #### 地铁站
@@ -90,7 +90,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
   城市其他地铁站正在修建中, 预计今年完成. 这些地铁站外表柱面, 有重复对称三角网拼贴.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/metro.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/metro.jpg" width="500" />
 </p>
 
 
