@@ -7,12 +7,12 @@ Parts of images from the internet. If there is any copyright infringement, pleas
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/skyline.png" width="500" />
 </p>
 
-暑假在沙特首都利雅得呆了四天. 从利雅得的城市天际线看上去, 并没有很多令人瞩目的建筑. 2014年之后, 利雅得建成超过100座高楼. 高楼数量位于中东第三位, 继迪拜和阿布扎比之后. 这里简单介绍几何参数化相关的建筑结构. 部分建筑在去年[第三期](https://www.huiwang.me/blog/2021/issue3/)有介绍. 其他建筑可以参考[ArchDaily](https://www.archdaily.com/tag/riyadh).
+暑假在沙特首都利雅得呆了四天. 从利雅得的城市天际线看上去, 并没有很多令人瞩目的建筑. 2014年之后, 利雅得建成超过100座高楼. 高楼数量位于中东第三位, 继迪拜和阿布扎比之后. 这里简单介绍几个参数化相关的建筑结构. 部分建筑在去年[第三期](https://www.huiwang.me/blog/2021/issue3/)有介绍. 其他利雅得新兴建筑可以参考[ArchDaily](https://www.archdaily.com/tag/riyadh).
 
 
 <center> <h3>Architecture建筑</h3> </center>
 
-  利雅得城市的主要现代化建筑几乎都集中在King Fahd路上, 包括地标性的国王中心, 以及新建设成的阿卜杜拉国王金融区. 整个城市似乎也是沿着这条主路分散发展开来. 因为是个内陆城市, 夏天尤其干热, 即使夜晚, 路上也温度极高. 
+  利雅得城市的主要现代化建筑几乎都集中在King Fahd路上, 包括地标性的国王中心, 以及新建设成的阿卜杜拉国王金融区. 整个城市似乎也是沿着这条主路分散发展开来. 因为是个内陆城市, 夏天尤其干热, 即使夜晚, 路上也温度极高. 目前城市地铁还在建设中没有投入使用, 出行仍然是靠出租车. 非常偶尔能看见公交车站, 也无人等车.
 
 
 - #### [King Fahad Library沙特国家图书馆](https://www.archdaily.com/469088/king-fahad-national-library-gerber-architekten)
@@ -39,7 +39,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 
 - #### [Faisaliyah Tower 费萨利塔](https://en.wikipedia.org/wiki/Al_Faisaliyah_Center)
 
-  福斯特建筑公司设计. 267米高, 2000年建成. 对称四面体结构. 快到顶层有一个玻璃球面. 顶部可观光.
+  福斯特建筑公司设计. 267米高, 2000年建成. 对称四面体结构. 快到顶层有一个玻璃球面. 顶部可观光, 底层有沙盘.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/faisaliyah.png" width="500" />
 </p>
@@ -54,7 +54,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 
 - #### [KAPSARC 阿卜杜拉国王石油研发中心](https://www.archdaily.cn/cn/882427/a-bu-du-la-guo-wang-shi-you-yan-fa-zhong-xin-zaha-hadid-architects?ad_name=article_cn_redirect=popup)
 
-  由扎哈事务所设计, 2017年完工的建筑部落, 也是有六角形状. 该六角棱柱蜂窝结构能有效利用利亚德的光能. 建筑群封闭管理, 不支持参观, 给infomation发邮件无人回复.
+  由扎哈事务所设计, 2017年完工的建筑部落,具有非平面非规则的六边形. 该六角棱柱蜂窝结构能有效利用利雅得的光能. 位于利雅得城市北部, 离机场很近. 建筑群封闭管理, 不支持参观, 给infomation发邮件无人回复.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/kapsarc.png" width="500" />
@@ -66,12 +66,12 @@ Parts of images from the internet. If there is any copyright infringement, pleas
   King Fahd路边有很多低矮的楼群, 很多结构并不复杂, 但是看着风格怪异. 有些是在玻璃幕墙上做额外的装饰线, 构造奇特效果, 比如华为楼.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/huawei.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/huawei.jpg" width="500" />
 </p>
 
 
 
-下面几个建筑都位于新建城的阿卜杜拉国王金融区.
+下面几个建筑都位于新规划的阿卜杜拉国王金融区.
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/kafd.png" width="500" />
 </p>
@@ -79,15 +79,15 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 
 - #### [KAFD Metro Station 阿卜杜拉国王金融区地铁站](https://www.zaha-hadid.com/architecture/king-abdullah-financial-district-metro-station/)
 
-  依旧延续了扎哈事务所参数化异形的建模风格, 该地铁站的样子又超过了人们的想象. 从2012年开建预计今年完工, 并预计2030年每天满载的情况下运送360万名乘客, 减少汽车出行次数.
+  依旧延续了扎哈事务所参数化异形的建模风格, 该地铁站的样子又超过了人们的想象. 从2012年开建, 本预计去年完工, 但暑假看到仍在装修中. 预计2030年每天满载的情况下运送360万名乘客, 减少汽车出行次数.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/metro.png" width="500" />
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/metro.jpg" width="500" />
 </p>
 
 - #### 地铁站
 
-  城市其他地铁站正在修建中, 预计今年完成. 这些地铁站外表柱面, 有正则三角网拼贴.
+  城市其他地铁站正在修建中, 预计今年完成. 这些地铁站外表柱面, 有重复对称三角网拼贴.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/metro.png" width="500" />
@@ -109,12 +109,20 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 
 - #### [SNB Headquater](https://www.fosterandpartners.com/projects/samba-headquarters/)
 
-  由Foster+partners设计,位于金融区核心位置. 原SAMBA银行在沙特总部, 已经被沙特国家银行(SNB)收购. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气. 
+  由Foster+partners设计,位于金融区核心位置. 去年还是SAMBA银行在沙特总部, 但已经被沙特国家银行(SNB)收购. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/samba.png" width="500" />
 </p>
 
+
+- #### [King Khalid利雅得国际机场RUH](https://architizer.com/projects/king-khalid-international-airport-expansion/)
+
+  由HOK设计,位于位于利雅得西北部, 有清真寺和喷泉花坛. 顶部有三角网拼贴的正弯曲的三角面片错落组成. 正则三角网与地面瓷砖的六边形拼贴存在对偶关系.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/airport.png" width="500" />
+</p>
 
 ------
 
