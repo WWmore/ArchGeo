@@ -17,7 +17,7 @@ Parts of images from the internet. If there is any copyright infringement, pleas
 
 - #### [King Fahad Library沙特国家图书馆](https://www.archdaily.com/469088/king-fahad-national-library-gerber-architekten)
 
-  由德国Gerber建筑公司在原有老的图书馆基础上重新设计的外立面结构. 同时也设计了背面广场. 结构在原有基础上进行了扩张, 形成长方体形状. 外立面由重复的对称的拉账薄膜结构组成. 每个薄膜曲面的边界插值两个对角点和两个相对直线. 个人很喜欢这个结构, 并进行了建模.
+  由德国Gerber建筑公司在原有老的图书馆基础上重新设计的外立面结构. 同时也设计了背面广场. 结构在原有基础上进行了扩张, 形成长方体形状. 外立面由重复的对称的拉账薄膜结构组成. 每个薄膜曲面的边界插值两个对角点和两个相对直线. 个人很喜欢这个结构, 并进行了[Grasshopper建模](https://www.huiwang.me/projects/36_fun/).
 <p align="center">
   <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/library.jpg" width="500" />
 </p>
