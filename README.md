@@ -8,7 +8,7 @@
 
 ## 2022
 
-- 第 23 期：[年终分享](doc/issue-23.md)
+- 第 23 期：[年终分享](doc/issue-24.md)
 - 第 22 期：[利雅得建筑](doc/issue-22.md)
 - 第 21 期：[温哥华建筑](doc/issue-21.md)
 - 第 20 期：[SIGGRAPH会议](doc/issue-20.md)
