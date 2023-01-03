@@ -9,7 +9,7 @@ ArchGeo建筑几何(第 23 期): 年终分享
 
 其实每天也都在获取新的信息，收藏夹和Note笔记里也整理了很多，最后两个月的内容量是有的。只是自己觉得两年整理的经验已经足够让自己养成这个习惯了，也许应该把这些零碎的收藏放入一个文件中，分门别类列出，比如和几何相关的建筑结构，与数学有关的资料库，与工具或软件相关的资源等，这样足够自己可以更好地参考就好，如果还能对其他人有帮助，则是意外之喜了。所以也很感谢关注这个号的人。阅读量和关注人数虽然不重要，不过看见今年这些数字有所增加也是很开心的收获。
 
-ArchGeo这个主题应该不会放弃，文章的内容都同步在了网页上。日后或许不会发布在公众号上了。打算在网页上更新能锻炼英语写作的内容，希望这个短板可以通过一年的锻炼有所增长。
+ArchGeo这个主题应该不会放弃，文章的内容都同步在了网页上。日后或许不会发布在公众号上了(公众号打算更新游记类的内容)。打算在网页上更新能锻炼英语写作的内容，希望这个短板可以通过一年的锻炼有所增长。
 
 以下是2022年的10个总结分享帖：
 
@@ -30,65 +30,83 @@ ArchGeo这个主题应该不会放弃，文章的内容都同步在了网页上�
 
 以下是自己2022年的一些业余时间去处：
 
->> #### 书籍
->> - 《海边的卡夫卡》-- 村上春树
->> - 《1Q84（Book123）》-- 村上春树
->> - 《焦虑的人》-- 陀思妥耶夫斯基
->> - 《把自己作为方法》 -- 项飙
->> - 《100 contemporary architects II》 --  Philip·Jodidio
->> - 《找形》-- Frei Otto
->> - 《The short story of architecture
->> - 《Sinan: the Architect and His Work
->> - 《Guggenheim Museum Bilbao》
->> - 《The complete work of Antoni Gaudi》
->> - 《BIG》
->> - 《Englished exposed:Common Mistakes made by Chinese》
->> - 《Writing Science: how to write papers that get cited and proposals that get funded》
->> - 《Science research writing》
+#### 书籍
+> - 《海边的卡夫卡》-- 村上春树
+> - 《1Q84》(I-II-III)-- 村上春树
+> - 《焦虑的人》-- Fredrik Backman
+> - 《把自己作为方法》 -- 项飙
+> - 《100 contemporary architects II》 --  Philip·Jodidio
+> - 《找形》-- Frei Otto
+> - 《The short story of architecture
+> - 《Sinan: the Architect and His Work
+> - 《Guggenheim Museum Bilbao》
+> - 《The complete work of Antoni Gaudi》
+> - 《BIG》
+> - 《Englished exposed:Common Mistakes made by Chinese》
+> - 《Writing Science: how to write papers that get cited and proposals that get funded》
+> - 《Science research writing》
 
->> #### 影视
->> - (综艺)脱口秀大会V
->> - (综艺)一年一度喜剧大会II
->> - 圆桌派
->> - 锵锵行天下
->> - 冬奥会
->> - 世界杯
->> - 这个杀手不太冷静
->> - 红海行动
->> - 国王排名
->> - Love&Death&Robot III
->> - The last dual
->> - The bad guy
->> - Uncharted
->> - Jurassic World： Dominion
->> - Avatar2
->> - Star War I-II-III
->> - The Matrix I-II
->> - The Eiffel
->> - Death on the Nile
->> - RRR
->> - Shiva
->> - Cinderala musical show
+#### LinkedIn Learning
+> - 《Laser Cutting: Design for Fabrication》
+> - 《Grasshopper: Architectural Prototyping》
+> - 《Grasshopper: Generative Design for Architecture》
+> - 《Design Foundation 3D: Shape and Form》
+> - 《Learning 3D Printing》
+> - 《Generative Design Foundations》
+> - Product and Architectural Visualization Techniques》
+> - 《John Maeda on Design, Business, and Inclusion》
+> - 《Learning C++》
 
->> #### 健身
->> - 今年跑步15次,悦跑圈显示累计46.14km，用时6:25时，消耗2533大卡
->> - 健身房喜欢爬楼机，保龄球
->> - keep断断续续在练
+ #### 影视
+> - (综艺)脱口秀大会V
+> - (综艺)一年一度喜剧大会II
+> - 圆桌派
+> - 锵锵行天下
+> - 冬奥会
+> - 世界杯
+> - 这个杀手不太冷静
+> - 红海行动
+> - 国王排名
+> - Love&Death&Robot III
+> - The last dual
+> - The bad guy
+> - Uncharted
+> - Jurassic World： Dominion
+> - Avatar2
+> - Star War I-II-III
+> - The Matrix I-II
+> - The Eiffel
+> - Death on the Nile
+> - RRR
+> - Shiva
+> - Cinderala musical show
+
+#### 旅行
+> - 利雅得 (沙特)
+> - Tarif (沙特)
+> - Al Balad (沙特吉达老城，世界文化遗产)
+> - Iftar Cruise (沙特吉达)
+> - 迪拜 (阿联酋)
+> - 土耳其
+> - 阿卡雄 (法国)
+> - 西班牙
+> - 温哥华 (加拿大)
+
+#### 健身
+> - 今年跑步15次,悦跑圈显示累计46.14km
+> - keep断断续续在练
+
+#### 新乐趣
+> - 驾驶车
+> - 钢琴入门
+> - Grasshopper画图
+> - 3D 打印，laser cut
+> - 健身房喜欢爬楼机，保龄球
+> - snorkeling浮潜
+> - 一只叫“好运”的橘猫
 
 
->> #### 旅行
->> - 利雅得 (沙特)
->> - Tarif (沙特)
->> - Al Balad (沙特吉达老城，世界文化遗产)
->> - Iftar Cruise (沙特吉达)
->> - 迪拜 (阿联酋)
->> - 土耳其
->> - 阿卡雄 (法国)
->> - 西班牙
->> - 温哥华 (加拿大)
-
-希望新年勇敢,快乐! 努力!
-
+希望新年健康平安,勇敢,快乐! 努力!
 ------
 
 <center> <h3>往期</h3> </center>
