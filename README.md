@@ -1,10 +1,10 @@
 # ArchGeo建筑几何月刊
 
-> 本杂志(月更)开源(GitHub: [WWmore/ArchGeo](https://github.com/wwmore/ArchGeo)),欢迎推广,提交新发现.
+> 本杂志(GitHub: [WWmore/ArchGeo](https://github.com/wwmore/ArchGeo))欢迎推广+提交新发现.
 > 同步微信公众号(WWmore).
 >
-> 这里记录每月以建筑几何AG(Architectural Geometry)为主的相关信息, 和值得分享的内容.
-> 每月月底更新.
+> 这里收藏记录了2021年1月至2022年10月期间每月以建筑几何AG(Architectural Geometry)为主的相关信息, 和值得分享的内容.
+> 共22期.
 
 ## 2022
 
